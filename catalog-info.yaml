@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: github-profile-cloud
+  description: GitHub Cloud SR Organization profile 
+spec:
+  type: website
+  lifecycle: production
+  owner: devcore

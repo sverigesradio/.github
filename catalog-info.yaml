@@ -2,10 +2,11 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: github-cloud-public-profile
+  title: GitHub Cloud Public Profile
   description: GitHub Cloud profile visible for public users
   links:
-  - url: https://github.com/sverigesradio?view_as=public
-    title: Public profile
+    - url: https://github.com/sverigesradio?view_as=public
+      title: Public profile
 spec:
   type: website
   lifecycle: production

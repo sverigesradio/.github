@@ -7,6 +7,8 @@ metadata:
   links:
     - url: https://github.com/sverigesradio?view_as=public
       title: Public profile
+  annotations:
+    sr.se/platform: not-applicable
 spec:
   type: website
   lifecycle: production
